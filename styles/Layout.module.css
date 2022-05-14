@@ -1,0 +1,9 @@
+.home {
+    list-style-type: none;
+    margin-left: 10px;
+}
+
+.home:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
